@@ -1,6 +1,6 @@
 # Server side to my react app
 Welcome to the server side of my web development.
-I made use of typescript to write my server side
+I made use of Express js, typescript to write my server side
 I made use of mongoDB for my database
 
 
